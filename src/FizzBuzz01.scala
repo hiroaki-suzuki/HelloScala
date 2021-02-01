@@ -1,4 +1,4 @@
-object FizzBuzz extends App {
+object FizzBuzz01 extends App {
   for (i <- 1 to 100) {
     if (i % 15 == 0) {
       println("FizzBuzz")
